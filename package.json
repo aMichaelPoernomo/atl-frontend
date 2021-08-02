@@ -1,5 +1,5 @@
 {
-  "name": "@michaelpoernomo/atl-frontend",
+  "name": "cra-template-atl-frontend",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -41,7 +41,10 @@
     ]
   },
   "description": "[ATL] Testing create-react-app template.",
-  "main": "index.js",
+  "main": "",
+  "files": [
+    "template"
+  ],
   "devDependencies": {},
   "repository": {
     "type": "git",
