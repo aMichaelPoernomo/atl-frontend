@@ -1,7 +1,7 @@
 {
-  "name": "my-app",
+  "name": "@michaelpoernomo/atl-frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -39,5 +39,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "[ATL] Testing create-react-app template.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aMichaelPoernomo/atl-frontend.git"
+  },
+  "author": "Michael Poernomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aMichaelPoernomo/atl-frontend/issues"
+  },
+  "homepage": "https://github.com/aMichaelPoernomo/atl-frontend#readme"
 }
