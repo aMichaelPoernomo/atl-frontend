@@ -1,6 +1,6 @@
 {
   "name": "cra-template-atl-frontend",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": false,
   "description": "[ATL] Testing create-react-app template.",
   "main": "template.json",
