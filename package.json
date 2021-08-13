@@ -1,6 +1,6 @@
 {
   "name": "cra-template-atl-frontend",
-  "version": "0.1.5",
+  "version": "0.2.2",
   "private": false,
   "description": "[ATL] Testing create-react-app template.",
   "main": "template.json",
@@ -8,7 +8,6 @@
     "template",
     "template.json"
   ],
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aMichaelPoernomo/atl-frontend.git"
