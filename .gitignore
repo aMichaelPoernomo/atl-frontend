@@ -2,14 +2,10 @@
 
 # dependencies
 /template/node_modules
-/.pnp
-.pnp.js
-
-# testing
-/template/coverage
-
-# production
 /template/build
+/template/.package.json
+/template/.package-lock.json
+/template/yarn.lock
 
 # misc
 .DS_Store
