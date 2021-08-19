@@ -23,7 +23,9 @@
     "scripts": {
       "start": "craco start",
       "build": "craco build",
-      "test": "craco test"
+      "test": "craco test",
+      "license:check": "license-checker --failOn 'GPL-3.0; LGPL-3.0' --summary",
+      "license:print": "license-checker --csv --out ./licenses.csv"
     },
     "eslintConfig": {
       "extends": ["react-app"]
